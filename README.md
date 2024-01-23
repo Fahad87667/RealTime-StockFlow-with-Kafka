@@ -1,4 +1,4 @@
-# Stock Market Kafka Real Time Data Engineering Project
+# Stock Market Real Time Streaming Kafka Project
 
 ## Introduction
 
