@@ -1,4 +1,4 @@
-# Stock Market Real Time Streaming Kafka Project
+# RealTime StockFlow with Kafka
 
 ## Introduction
 
